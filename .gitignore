@@ -5,3 +5,4 @@ pytorchBasics/datasets/
 classification/datasets/
 pytorchBasics/data/
 pytorchTensors/datasets/
+pytorchTensors/data/
